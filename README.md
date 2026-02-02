@@ -1,29 +1,31 @@
-HR Diversity & Inclusion Dashboard 📊
-Este proyecto presenta un análisis estratégico de Recursos Humanos enfocado en la diversidad, la equidad y la estructura laboral de la plantilla. El objetivo es proporcionar una visión clara de los indicadores clave (KPIs) para facilitar la toma de decisiones ejecutivas.
 
-🎯 Resultados del Diseño "Next Gen"
+
+
+
+
+# HR Diversity & Inclusion Dashboard 📊
+
+Este proyecto presenta un análisis estratégico de Recursos Humanos enfocado en la **diversidad, la equidad y la estructura laboral** de la plantilla. El objetivo es proporcionar una visión clara de los indicadores clave (KPIs) para facilitar la toma de decisiones ejecutivas.
+
+---
+
+## 🎯 Resultados del Diseño "Next Gen"
 Para este dashboard, se ha implementado un diseño de interfaz moderna que incluye:
 
-Barra Lateral de Control: Un panel gris oscuro que organiza los filtros de Departamento, Género y Nivel Profesional para una navegación intuitiva.
+* **Barra Lateral de Control**: Un panel gris oscuro que organiza los filtros de Departamento, Género y Nivel Profesional para una navegación intuitiva.
+* **Indicadores Visuales de Énfasis**: Barras laterales naranjas en las tarjetas de KPI para resaltar métricas críticas como el Total de Empleados y el % de Mujeres.
+* **Jerarquía Visual**: Uso de sombras y contrastes (amarillo, gris y blanco) para separar claramente los bloques de información.
 
-Indicadores Visuales de Énfasis: Barras laterales naranjas en las tarjetas de KPI para resaltar métricas críticas como el Total de Empleados y el % de Mujeres.
+---
 
-Jerarquía Visual: Uso de sombras y contrastes (amarillo, gris y blanco) para separar claramente los bloques de información.
+## 🔍 Métricas Analizadas
+* **Distribución Demográfica**: Análisis por género, nivel profesional y generaciones.
+* **Equidad Salarial**: Promedio de salario y su relación con diferentes departamentos.
+* **Tendencias de Contratación**: Evolución histórica de las incorporaciones por año.
 
-🔍 Métricas Analizadas
-Distribución Demográfica: Análisis por género, nivel profesional y generaciones.
+---
 
-Equidad Salarial: Promedio de salario y su relación con diferentes departamentos.
+## 📂 Acceso a los Archivos Técnicos
+Como mi cuenta actual no permite la publicación interactiva abierta, puedes **descargar el archivo original (.pbix)** para revisar las medidas DAX, el modelo de datos y las capas de diseño directamente en Power BI Desktop:
 
-Tendencias de Contratación: Evolución histórica de las incorporaciones por año.
-
-📂 Acceso a los Archivos Técnicos
-Como mi cuenta actual no permite la publicación interactiva abierta, puedes descargar el archivo original (.pbix) para revisar las medidas DAX, el modelo de datos y las capas de diseño directamente en Power BI Desktop:
-
-👉 DESCARGAR PROYECTO DESDE GOOGLE DRIVE 📥
-
-https://drive.google.com/file/d/1R0-nabXMN27_j1sSJQF6BA3pNxtzNSzw/view?usp=sharing
-
-
-
-
+👉 [DESCARGAR PROYECTO DESDE GOOGLE DRIVE](https://drive.google.com/file/d/1R0-nabXMN27_j1sSJQF6BA3pNxtzNSzw/view?usp=sharing) 📥
