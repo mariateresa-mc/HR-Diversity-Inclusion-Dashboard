@@ -9,7 +9,7 @@ Este proyecto presenta un análisis estratégico de Recursos Humanos enfocado en
 
 ---
 
-![Dashboard Final](Captura%20de%20pantalla%202026-02-02%20212709.png)
+![Dashboard Final](Captura de pantalla 2026-02-02 212709.png)
 
 ---
 
