@@ -28,4 +28,4 @@ Para este dashboard, se ha implementado un diseño de interfaz moderna que inclu
 ## 📂 Acceso a los Archivos Técnicos
 Como mi cuenta actual no permite la publicación interactiva abierta, puedes **descargar el archivo original (.pbix)** para revisar las medidas DAX, el modelo de datos y las capas de diseño directamente en Power BI Desktop:
 
-👉 [DESCARGAR PROYECTO DESDE GOOGLE DRIVE](https://drive.google.com/file/d/1R0-nabXMN27_j1sSJQF6BA3pNxtzNSzw/view?usp=sharing) 📥
+👉 [DESCARGAR PROYECTO DESDE GOOGLE DRIVE]https://drive.google.com/file/d/1R0-nabXMN27_j1sSJQF6BA3pNxtzNSzw/view?usp=sharing 📥
