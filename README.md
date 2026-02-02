@@ -26,6 +26,4 @@ https://drive.google.com/file/d/1R0-nabXMN27_j1sSJQF6BA3pNxtzNSzw/view?usp=shari
 
 
 
-Busca la línea final y cambia el texto AQUÍ_PEGAS_TU_ENLACE_DE_DRIVE por el link que copiaste de Google Drive (asegúrate de mantener los paréntesis ( ) alrededor del link).
 
-Dale al botón verde de arriba que dice "Commit changes...".
