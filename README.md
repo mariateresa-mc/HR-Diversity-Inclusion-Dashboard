@@ -8,10 +8,9 @@
 Este proyecto presenta un análisis estratégico de Recursos Humanos enfocado en la **diversidad, la equidad y la estructura laboral** de la plantilla. El objetivo es proporcionar una visión clara de los indicadores clave (KPIs) para facilitar la toma de decisiones ejecutivas.
 
 ---
+<img width="1400" height="752" alt="Captura de pantalla 2026-02-02 212709" src="https://github.com/user-attachments/assets/dba1c458-f4e8-4f00-ad18-863f3ac84b47" />
 
-![Dashboard Final](Captura de pantalla 2026-02-02 212709.png)
 
----
 
 ## 🎯 Resultados del Diseño "Next Gen"
 
