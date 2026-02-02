@@ -6,10 +6,11 @@
 # HR Diversity & Inclusion Dashboard 📊
 
 Este proyecto presenta un análisis estratégico de Recursos Humanos enfocado en la **diversidad, la equidad y la estructura laboral** de la plantilla. El objetivo es proporcionar una visión clara de los indicadores clave (KPIs) para facilitar la toma de decisiones ejecutivas.
-![Dashboard Final](Captura%20de%20pantalla%202026-02-02%20212709.png)
+<img width="1400" height="752" alt="Captura de pantalla 2026-02-02 212709" src="https://github.com/user-attachments/assets/7c7f9f9b-da63-492b-90c9-f0eeb23b0b17" />
 ---
 
-## 🎯 Resultados del Diseño "Next Gen"
+## 🎯 Resultados
+ del Diseño "Next Gen"
 Para este dashboard, se ha implementado un diseño de interfaz moderna que incluye:
 
 * **Barra Lateral de Control**: Un panel gris oscuro que organiza los filtros de Departamento, Género y Nivel Profesional para una navegación intuitiva.
